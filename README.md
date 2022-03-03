@@ -1,2 +1,0 @@
-# Vault
-vault cert note
